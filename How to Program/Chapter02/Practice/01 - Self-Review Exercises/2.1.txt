@@ -1,0 +1,11 @@
+2.1
+a) visual app development
+b) solution
+c) auto-hide
+d) tool tip
+e) solution explorer
+f) alphabetically, categorically
+g) Text
+h) Toolbox
+i) context-sensitive help
+j) TextAlign
